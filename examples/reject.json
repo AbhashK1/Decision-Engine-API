@@ -1,0 +1,10 @@
+{
+    "user_id": "u2",
+    "attributes": {
+        "age": 22,
+        "country": "IN",
+        "account_age_days": 10,
+        "monthly_volume": 10000,
+        "kyc_verified": false
+    }
+}
